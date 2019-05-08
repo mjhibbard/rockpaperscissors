@@ -1,0 +1,19 @@
+{
+  "name": "rockpaperscissors",
+  "version": "1.0.0",
+  "description": "Game for fun",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjhibbard/rockpaperscissors.git"
+  },
+  "author": "Mike H.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjhibbard/rockpaperscissors/issues"
+  },
+  "homepage": "https://github.com/mjhibbard/rockpaperscissors#readme"
+}
